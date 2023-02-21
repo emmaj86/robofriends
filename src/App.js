@@ -22,7 +22,7 @@ class App extends React.Component() {
       </header>
     </div>
   );
-}
+  }
 }
 
 export default App;
